@@ -1,5 +1,5 @@
 # Game of Set
-## This was the final project of the CSC110 class taken at the University of Rhode Island. 
+## This was the final project for the CSC110 class taken at the University of Rhode Island. 
 
 ## Objective:
 Make a set consisting of three cards where **each** feature is either the **same** on **each** card _**OR**_ is **different** on **each** card. 
